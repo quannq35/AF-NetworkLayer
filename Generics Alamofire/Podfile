@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Generics Alamofire' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Generics Alamofire
+  pod 'Alamofire'
+
+  target 'Generics AlamofireTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'Generics AlamofireUITests' do
+    # Pods for testing
+  end
+
+end

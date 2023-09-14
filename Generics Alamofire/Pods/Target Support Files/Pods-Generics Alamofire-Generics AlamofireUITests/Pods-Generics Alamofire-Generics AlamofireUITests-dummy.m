@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Generics_Alamofire_Generics_AlamofireUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Generics_Alamofire_Generics_AlamofireUITests
+@end
